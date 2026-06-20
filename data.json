@@ -1,0 +1,224 @@
+{
+  "systems": [
+    {
+      "id": "realestate",
+      "emoji": "\ud83c\udfe0",
+      "name": "Real Estate LeadOS",
+      "category": "Lead Operations",
+      "problem": "Leads get lost and agents forget follow ups.",
+      "features": [
+        "AI lead summarization",
+        "HOT / WARM / COLD categorization",
+        "Centralized lead database",
+        "Customer confirmation emails",
+        "Owner notifications",
+        "Follow up reminders"
+      ],
+      "flow": [
+        "Lead Form",
+        "AI Qualification",
+        "Lead Database",
+        "Owner Alert",
+        "Follow Up System"
+      ],
+      "outcomes": [
+        "Faster response time",
+        "Better lead tracking",
+        "Reduced lead leakage"
+      ],
+      "tone": "blue"
+    },
+    {
+      "id": "school",
+      "emoji": "\ud83c\udfeb",
+      "name": "School AdmissionOS",
+      "category": "Education Operations",
+      "problem": "School admissions are manual and messy.",
+      "features": [
+        "Admission intake forms",
+        "Automatic Student ID generation",
+        "Parent confirmation emails",
+        "Admin notifications",
+        "Drive folder creation per student"
+      ],
+      "flow": [
+        "Admission Form",
+        "Student ID",
+        "Database",
+        "Drive Folder",
+        "Emails"
+      ],
+      "outcomes": [
+        "Organized admissions",
+        "Reduced admin work",
+        "Zero paperwork lost"
+      ],
+      "tone": "violet"
+    },
+    {
+      "id": "gym",
+      "emoji": "\ud83d\udcaa",
+      "name": "Gym MembershipOS",
+      "category": "Membership Retention",
+      "problem": "Gyms lose leads and forget renewals.",
+      "features": [
+        "Membership inquiry forms",
+        "Member database",
+        "Welcome email automation",
+        "Renewal reminders",
+        "Owner notifications"
+      ],
+      "flow": [
+        "Membership Form",
+        "Database",
+        "Welcome Email",
+        "Renewal System"
+      ],
+      "outcomes": [
+        "Better customer retention",
+        "No more missed renewals"
+      ],
+      "tone": "blue"
+    },
+    {
+      "id": "assistant",
+      "emoji": "\ud83e\udd16",
+      "name": "AI Personal Assistant",
+      "category": "Productivity Automation",
+      "problem": "Repetitive tasks waste your most expensive hours.",
+      "features": [
+        "Telegram-native assistant",
+        "Voice & text support",
+        "Audio transcription",
+        "Persistent memory",
+        "Google Calendar integration"
+      ],
+      "flow": [
+        "Telegram",
+        "Voice / Text",
+        "AI Agent",
+        "Calendar",
+        "Response"
+      ],
+      "outcomes": [
+        "Always-on assistant",
+        "Voice-first workflow",
+        "Zero context switching"
+      ],
+      "tone": "violet"
+    },
+    {
+      "id": "onboarding",
+      "emoji": "\ud83c\udfe2",
+      "name": "Client OnboardingOS",
+      "category": "Client Operations",
+      "problem": "Client onboarding is inconsistent and slow.",
+      "features": [
+        "Client intake form",
+        "AI requirement summary",
+        "Automatic Project ID generation",
+        "Drive folder creation",
+        "Branded welcome emails"
+      ],
+      "flow": [
+        "Client Form",
+        "AI Summary",
+        "Project Setup",
+        "Folder Creation",
+        "Onboarding"
+      ],
+      "outcomes": [
+        "Consistent first impression",
+        "Hours saved per client",
+        "Nothing falls through"
+      ],
+      "tone": "blue"
+    }
+  ],
+  "stats": [
+    {
+      "value": "5+",
+      "label": "Business Operating Systems Built",
+      "tone": "blue"
+    },
+    {
+      "value": "100%",
+      "label": "AI Integrated Systems",
+      "tone": "violet"
+    },
+    {
+      "value": "2\u20135\u00d7",
+      "label": "Operational Leverage",
+      "tone": "blue"
+    },
+    {
+      "value": "40h+",
+      "label": "Hours Saved Weekly",
+      "tone": "violet"
+    }
+  ],
+  "steps": [
+    [
+      "Identify Bottleneck",
+      "We map your business and find the repetitive work draining your team."
+    ],
+    [
+      "Build System",
+      "Custom n8n workflows engineered around your operation, not a template."
+    ],
+    [
+      "Integrate AI",
+      "Gemini-powered intelligence layered into the flow for decisions, not just steps."
+    ],
+    [
+      "Automate Operations",
+      "Forms, databases, notifications and follow-ups wired end-to-end."
+    ],
+    [
+      "Scale Business",
+      "You reclaim hours, plug leakage and unlock 2\u20135\u00d7 leverage."
+    ]
+  ],
+  "stack": [
+    {
+      "name": "n8n",
+      "glyph": "n8n",
+      "color": "#EA4B71"
+    },
+    {
+      "name": "Gemini",
+      "glyph": "\u2726",
+      "color": "#60A5FA"
+    },
+    {
+      "name": "Google Workspace",
+      "glyph": "W",
+      "color": "#A78BFA"
+    },
+    {
+      "name": "REST APIs",
+      "glyph": "{ }",
+      "color": "#34D399"
+    },
+    {
+      "name": "AI Agents",
+      "glyph": "\u25c9",
+      "color": "#F59E0B"
+    },
+    {
+      "name": "Google Sheets",
+      "glyph": "\u25a6",
+      "color": "#10B981"
+    },
+    {
+      "name": "Google Drive",
+      "glyph": "\u25a3",
+      "color": "#FBBF24"
+    },
+    {
+      "name": "Telegram",
+      "glyph": "\u2708",
+      "color": "#60A5FA"
+    }
+  ]
+}
